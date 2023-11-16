@@ -2,6 +2,6 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, my first java code compalier!"); 
+        System.out.println("Hello, my first project created by me!"); 
     }
 }
